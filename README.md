@@ -4,9 +4,9 @@
 
 ## 🛠️ Stack
 
-**Back-end** : PHP (natif et Symfony), Node.js / Express, Doctrine, MongoDB, MySQL
-**Front-end** : Vue 3, Alpine.js, JavaScript, HTML / CSS / SCSS, Tailwind, Bootstrap
-**Outils** : Git, Vite, Docker, Swagger, PHPUnit
+- **Back-end** : PHP (natif et Symfony), Node.js / Express, Doctrine, MongoDB, MySQL
+- **Front-end** : Vue 3, Alpine.js, JavaScript, HTML / CSS / SCSS, Tailwind, Bootstrap
+- **Outils** : Git, Vite, Docker, Swagger, PHPUnit
 
 ## 🚀 Projets à la une
 
