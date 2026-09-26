@@ -4,14 +4,15 @@
 
 ## 🛠️ Stack
 
-- **Back-end** : PHP (natif et Symfony), Node.js / Express, Doctrine, MongoDB, MySQL
-- **Front-end** : Vue 3, Alpine.js, JavaScript, HTML / CSS / SCSS, Tailwind, Bootstrap
-- **Outils** : Git, Vite, Docker, Swagger, PHPUnit
+- **Back-end** : Java / Spring Boot, PHP (natif et Symfony), Node.js / Express, PostgreSQL, MongoDB, MySQL
+- **Front-end** : React, TypeScript, Vue 3, Alpine.js, HTML / CSS / SCSS, Tailwind, Bootstrap
+- **Outils** : Git, GitHub Actions, Docker, Testcontainers, Vite, Swagger, Render, Vercel
 
 ## 🚀 Projets à la une
 
 | Projet | Description | Techno |
 |---|---|---|
+| [**ApplyTrack**](https://github.com/Walidee27/ApplyTrack) · [démo](https://applytrack-chi.vercel.app) | Suivi de candidatures façon tableau des départs : kanban, relances e-mail automatiques, bilan statistique. Déployé avec compte de démo | React · TypeScript · Spring Boot 3 · PostgreSQL · Testcontainers |
 | [**SkillSwap**](https://github.com/Walidee27/SkillSwap) | Plateforme d'échange de compétences entre étudiants, avec messagerie temps réel et API REST documentée (projet d'équipe) | Vue 3 · Express · MongoDB · Socket.io · JWT |
 | [**Maison Luxe**](https://github.com/Walidee27/Serveur-Web-mini-MVC) | E-commerce en PHP sans framework, architecture MVC maison : panier, paiement, back-office | PHP · MySQL · MVC |
 | [**Opulentia**](https://github.com/Walidee27/composer-maker) | E-shop de mode : catalogue, commandes, espace client, administration | Symfony 7 · Doctrine · Twig |
